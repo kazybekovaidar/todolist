@@ -1,0 +1,63 @@
+@import '~antd/dist/antd.css';
+
+.slider {
+  background-color: #16161a;
+}
+
+.menu {
+  background-color: #16161a;
+  color:#f9f4ef;
+  min-width: 81;
+}
+
+.trigger {
+  color: #2cb67d;
+  margin-top: 570px;
+  margin-left: 30px;
+  font-size: 17px;
+}
+
+.trigger:hover {
+  color: #f9f4ef;
+}
+
+.icon {
+  color: #2cb67d;
+}
+
+.site-layout .site-layout-background {
+  background: #fffffe;
+}
+
+.site-card-border-less-wrapper {
+  padding: 30px;
+  background: #ececec;
+}
+
+.btn {
+  background: #ff8906;
+  color: #fffffe;
+}
+
+.del {
+  color: #16161a;
+}
+
+.del:hover {
+  color: #f25042;
+}
+
+.ant-checkbox-checked .ant-checkbox-inner {
+  background-color: #2cb67d;
+  border-color: #2cb67d;
+}
+
+.form-control {
+  margin-right: 20px;
+  margin-left: 30px;
+  min-width: 1060px;
+}
+
+.add-form {
+  display: flex;
+}
